@@ -1,0 +1,7 @@
+C:\Users\TurboPC\source\repos\Singletone.Sol\Singletone\bin\Debug\Singletone.exe.config
+C:\Users\TurboPC\source\repos\Singletone.Sol\Singletone\bin\Debug\Singletone.exe
+C:\Users\TurboPC\source\repos\Singletone.Sol\Singletone\bin\Debug\Singletone.pdb
+C:\Users\TurboPC\source\repos\Singletone.Sol\Singletone\obj\Debug\Singletone.csprojAssemblyReference.cache
+C:\Users\TurboPC\source\repos\Singletone.Sol\Singletone\obj\Debug\Singletone.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\source\repos\Singletone.Sol\Singletone\obj\Debug\Singletone.exe
+C:\Users\TurboPC\source\repos\Singletone.Sol\Singletone\obj\Debug\Singletone.pdb
